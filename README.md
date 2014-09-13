@@ -1,5 +1,7 @@
 This project has been stripped of all references to the Bukkit
+==============================================================
 API project as it can be found on https://github.com/Bukkit/Bukkit
+==============================================================
 
 All org.bukkit.CLASSNAME_HERE references in the code of this
 program references to the wolf in a Bukkit code found on 
@@ -19,9 +21,12 @@ TOGETHER WITH A COPY OF THE BUKKIT API WETHER IT BE COMPILED OR
 SOURCE CODE!
 *****************************************************************
 WARNING WARNING WARNINGWARNING WARNING WARNING WARNING WARNING 
-=================================================================
+
+
+
+
 LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL *****************************************************************
-=================================================================
+
 The following terms are applicable in this document:
 
 Wolf in a Bukkit: a NEW API X11/MIT licensed implementation to
@@ -108,7 +113,6 @@ You will then have your own personal copy of craftbukkit with the
 bukkit api. AGAIN: YOU ARE NOT ALLOWED TO DISTRUBTE THAT COPY!
 The file will be in the directory called target.
 
-==================================================================
 ******************************************************************
 LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL 
 
