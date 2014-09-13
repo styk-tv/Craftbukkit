@@ -124,7 +124,7 @@ A Wolf in a Bukkit (Minecraft Server API) implementation
 
 Bugs/Suggestions/helping out: http://reddit.com/wolf_in_a_bukkit
 
-his craftbukkit is stripped of what is known as the bukkit api.
+This craftbukkit is stripped of what is known as the bukkit api.
 It will not compile since it misses the bukkit api.
 
 The wolf in a bukkit api will be built to make this package
