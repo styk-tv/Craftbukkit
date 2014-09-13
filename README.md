@@ -12,16 +12,14 @@ and WITH the wolf in a bukkit api whilst maintaing compatiblity!
 This project as it stands in this repository is fully LGPLv3
 compliant!
 
-
 WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 
-*******************************************************************
+*****************************************************************
 THIS CRAFT BUKKIT MAY NOT BE DISTRIBUTED UNDER ANY CIRCUMSTANCES
 TOGETHER WITH A COPY OF THE BUKKIT API WETHER IT BE COMPILED OR
 SOURCE CODE!
-*******************************************************************
+*****************************************************************
 WARNING WARNING WARNINGWARNING WARNING WARNING WARNING WARNING 
-
-
+=================================================================
 LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL LEGAL *****************************************************************
 =================================================================
 The following terms are applicable in this document:
